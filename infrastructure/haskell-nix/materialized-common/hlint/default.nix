@@ -46,7 +46,7 @@
         "splitmix".flags.optimised-mixer = false;
         "dlist".revision = (((hackage."dlist")."1.0").revisions).default;
         "dlist".flags.werror = false;
-        "conduit".revision = (((hackage."conduit")."1.3.4").revisions).default;
+        "conduit".revision = (((hackage."conduit")."1.3.4.1").revisions).default;
         "data-default".revision = (((hackage."data-default")."0.7.1.1").revisions).default;
         "data-default-instances-old-locale".revision = (((hackage."data-default-instances-old-locale")."0.0.1").revisions).default;
         "uniplate".revision = (((hackage."uniplate")."1.6.13").revisions).default;
